@@ -75,7 +75,7 @@ python main.py augment --index 56
 
 Predict on an external image URL:
 ```bash
-python main.py predict --url "https://upload.wikimedia.org/wikipedia/commons/6/66/F-16_Fighting_Falcon.jpg"
+python main.py predict --url "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/homepage/families-gallery/2023/revuelto/revuelto_m.png"
 ```
 
 ## Outputs
