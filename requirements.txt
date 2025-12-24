@@ -1,0 +1,6 @@
+numpy>=1.23
+matplotlib>=3.7
+tensorflow>=2.9
+scikit-learn>=1.2
+# Optional (only needed for interactive 3D PCA):
+# plotly>=5.0
